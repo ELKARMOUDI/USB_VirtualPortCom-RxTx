@@ -1,4 +1,4 @@
-# STM32 USB Virtual COM Port Echo with RealTerm
+# STM32F411 DISCO USB Virtual COM Port Echo with RealTerm
 
 ![STM32](https://img.shields.io/badge/STM32F411-Discovery-03234B?logo=stmicroelectronics&logoColor=white)
 ![USB](https://img.shields.io/badge/USB-CDC_ECHO-2496ED?logo=usb&logoColor=white)
